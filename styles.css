@@ -159,3 +159,13 @@ footer {
 .page-content li {
     margin-bottom: 8px;
 }
+
+/*  ========================
+    Style elements
+    ======================== */  
+
+.dateandtime p {
+    font-size: 1rem;
+    font-style: italic;
+    color: #444;
+}
